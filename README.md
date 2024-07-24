@@ -10,7 +10,7 @@ This is a simple CRUD application built with Flask and SQLite.
 
 1. Clone the repository:
 
-   git clone https://github.com/yourusername/flask-crud-app.git
+   git clone https://github.com/Akshayasri0805/FlaskCRUD-Application/tree/master
    cd flask-crud-app
 2. Create a virtual environment and activate it:
 
